@@ -87,4 +87,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-The [MIT](https://choosealicense.com/licenses/mit/) LICNESE. Please see [License File](https://github.com/gbxnga) form more information.
+The [MIT](https://choosealicense.com/licenses/mit/) LICNESE. Please see [License File](https://github.com/gbxnga/smart-sms-solutions/blob/master/LICENSE.md) form more information.
