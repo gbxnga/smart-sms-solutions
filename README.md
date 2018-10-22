@@ -66,7 +66,7 @@ echo $sms->sendMessage($sender,$recipients,$message);
 ## Running the tests
 To run the tests: include your [smartsmssolutions.com](http://smartsmssolutions.com) email and password in the `class SmartSMSSolutionsTest` constants.
 Then run `vendor/bin/phpunit`. Make sure there is more than zero SMS units on the account.
-```
+```php
 <?php
 class SmartSMSSolutionsTest extends TestCase
 {
